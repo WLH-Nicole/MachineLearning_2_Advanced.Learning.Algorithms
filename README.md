@@ -1,1 +1,2 @@
-# MachineLearning_2_Advanced.Learning.Algorithms
+# Advanced Learning Algorithms
+## (Coursera - Machine Learning Specialization)
